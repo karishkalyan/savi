@@ -6,7 +6,7 @@ printf("\n enter the value of k:");
 scanf("%d",&k);
 for(i=0;i<k;i++);
 {
-sum=sum+n[i];
+sum=sum+a[i];
 }
 printf("\n the sum is %d",sum);
 getch();
